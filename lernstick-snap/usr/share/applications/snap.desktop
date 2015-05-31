@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Snap! Build Your Own Blocks
+GenericName=Visual programming language
+GenericName[de]=Visuelle Programmiersprache
+Exec=iceweasel http://snap.berkeley.edu/snapsource/snap.html
+Type=Application
+Icon=snap
+Categories=Development;

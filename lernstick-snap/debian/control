@@ -1,0 +1,11 @@
+Source: lernstick-snap
+Section: education
+Priority: optional
+Maintainer: Ronny Standtke <ronny.standtke@fhnw.ch>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+
+Package: lernstick-snap
+Architecture: all
+Description: A menu entry for Snap!
+ We add a menu entry for the Snap! webpage.
