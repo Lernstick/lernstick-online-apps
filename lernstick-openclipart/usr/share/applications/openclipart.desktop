@@ -1,0 +1,7 @@
+[Desktop Entry]
+Categories=Graphics;
+Exec=iceweasel http://www.openclipart.org
+Icon=openclipart
+Name=Open Clip Art Library
+GenericName[de]=Freie Clipart-Bibliothek
+Type=Application
