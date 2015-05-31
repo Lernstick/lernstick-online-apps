@@ -1,0 +1,11 @@
+Source: lernstick-strut
+Section: misc
+Priority: optional
+Maintainer: Ronny Standtke <ronny.standtke@fhnw.ch>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+
+Package: lernstick-strut
+Architecture: all
+Description: A menu entry for strut.io
+ We add a menu entry for strut.io in the Office category.
