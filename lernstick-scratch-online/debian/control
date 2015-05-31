@@ -1,0 +1,11 @@
+Source: lernstick-scratch-online
+Section: education
+Priority: optional
+Maintainer: Ronny Standtke <ronny.standtke@fhnw.ch>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+
+Package: lernstick-scratch-online
+Architecture: all
+Description: A menu entry for Scratch Online
+ We add a menu entry for the Scratch webpage.
