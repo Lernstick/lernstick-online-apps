@@ -1,3 +1,9 @@
+lernstick-snap (2) lernstick-8; urgency=medium
+
+  * added online hint to desktop file
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 31 May 2015 13:49:53 +0200
+
 lernstick-snap (1) lernstick-8; urgency=low
 
   * initial release
