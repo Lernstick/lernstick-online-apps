@@ -1,0 +1,6 @@
+[Desktop Entry]
+Categories=Music;
+Exec=iceweasel http://www.weltmusik-fuer-kinder.de/portal/
+Icon=/usr/share/icons/weltmusik.png
+Name=Kinderweltmusik
+Type=Application
