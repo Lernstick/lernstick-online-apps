@@ -1,0 +1,17 @@
+lernstick-flubidux (2) lernstick-8; urgency=medium
+
+  * synced with Debian 8
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 11 Jun 2015 22:58:44 +0200
+
+lernstick-flubidux (1.1-1) unstable; urgency=low
+
+  * updated url
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Thu, 09 Jan 2014 11:15:39 +0100
+
+lernstick-flubidux (1.0-1) unstable; urgency=low
+
+  * initial version
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Tue, 09 Nov 2010 15:25:44 +0100
