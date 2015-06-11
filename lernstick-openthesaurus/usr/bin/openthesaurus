@@ -1,0 +1,23 @@
+#!/bin/sh
+SHORT_LANG="$(echo $LANG | awk -F_ '{print $1}')"
+
+case "${SHORT_LANG}" in
+	pl)
+		iceweasel http://synonimy.ux.pl
+		;;
+	pt)
+		iceweasel http://openthesaurus.caixamagica.pt
+		;;
+	sk)
+		iceweasel http://www.openthesaurus.tk
+		;;
+	sl)
+		iceweasel http://www.tezaver.si
+		;;
+	es)
+		iceweasel http://openthes-es.berlios.de
+		;;
+	*)
+		iceweasel http://www.openthesaurus.de
+		;;
+esac
