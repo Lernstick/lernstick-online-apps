@@ -1,0 +1,23 @@
+lernstick-kinder-wollen-singen (2) lernstick-8; urgency=medium
+
+  * synced with Debian 8
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 11 Jun 2015 23:11:00 +0200
+
+lernstick-kinder-wollen-singen (1.2-1) unstable; urgency=low
+
+  * use custom icon
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Tue, 03 Apr 2012 20:43:39 +0200
+
+lernstick-kinder-wollen-singen (1.1-1) unstable; urgency=low
+
+  * changed generic name
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Thu, 30 Dec 2010 14:35:59 +0100
+
+lernstick-kinder-wollen-singen (1.0-1) unstable; urgency=low
+
+  * initial version
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Tue, 09 Nov 2010 15:25:44 +0100

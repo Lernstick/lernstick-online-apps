@@ -1,0 +1,11 @@
+Source: lernstick-kinder-wollen-singen
+Section: misc
+Priority: optional
+Maintainer: Ronny Standtke <ronny.standtke@fhnw.ch>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+
+Package: lernstick-kinder-wollen-singen
+Architecture: all
+Description: A menu entry for the "Kinder wollen singen" webpage
+ We add a menu entry for the "Kinder wollen singen" webpage.
