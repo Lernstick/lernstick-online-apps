@@ -1,0 +1,17 @@
+lernstick-kinderzeitmaschine (2) lernstick-8; urgency=medium
+
+  * synced with Debian 8
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 11 Jun 2015 22:25:28 +0200
+
+lernstick-kinderzeitmaschine (1.1-1) unstable; urgency=low
+
+  * changed category
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Tue, 01 Mar 2011 13:42:06 +0100
+
+lernstick-kinderzeitmaschine (1.0-1) unstable; urgency=low
+
+  * initial release
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Fri, 29 Oct 2010 11:41:09 +0200

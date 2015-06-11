@@ -1,0 +1,6 @@
+[Desktop Entry]
+Categories=X-lernstick-History;
+Exec=iceweasel http://www.kinderzeitmaschine.de
+Icon=kinderzeitmaschine
+Name=Kinderzeitmaschine
+Type=Application
