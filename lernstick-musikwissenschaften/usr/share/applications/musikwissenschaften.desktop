@@ -1,0 +1,6 @@
+[Desktop Entry]
+Categories=Music;
+Exec=iceweasel http://musikwissenschaften.de/lernprogramme/online-lernprogramme-flash-uebersicht/
+Icon=/usr/share/icons/musikwissenschaften.png
+Name=Musikwissenschaften
+Type=Application
