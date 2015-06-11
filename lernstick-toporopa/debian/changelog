@@ -1,0 +1,17 @@
+lernstick-toporopa (2) lernstick-8; urgency=medium
+
+  * synced with Debian 8
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 11 Jun 2015 22:15:44 +0200
+
+lernstick-toporopa (1.1-1) unstable; urgency=low
+
+  * added GenericName entries to desktop file
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Thu, 15 Sep 2011 15:20:53 +0200
+
+lernstick-toporopa (1.0-1) unstable; urgency=low
+
+  * initial release
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Fri, 29 Oct 2010 11:41:09 +0200
