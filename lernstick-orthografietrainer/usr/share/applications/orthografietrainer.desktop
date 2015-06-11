@@ -1,0 +1,6 @@
+[Desktop Entry]
+Categories=Education;Languages;
+Exec=iceweasel http://www.orthografietrainer.de
+Icon=/usr/share/icons/orthografietrainer.png
+Name=Orthografietrainer
+Type=Application
