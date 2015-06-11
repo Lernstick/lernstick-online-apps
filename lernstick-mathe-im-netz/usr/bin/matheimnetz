@@ -1,0 +1,11 @@
+#!/bin/sh
+SHORT_LANG="$(echo $LANG | awk -F_ '{print $1}')"
+
+case "${SHORT_LANG}" in
+	de)
+		iceweasel http://www.mathe-im-netz.de
+		;;
+	*)
+		iceweasel http://www.maths-on-the-net.com
+		;;
+esac
