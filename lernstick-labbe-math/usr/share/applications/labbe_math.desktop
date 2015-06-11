@@ -1,0 +1,6 @@
+[Desktop Entry]
+Categories=Education;Math;
+Exec=iceweasel http://www.labbe.de/lerntrix/index_mg.asp
+Icon=/usr/share/icons/labbe.png
+Name=Lerntrix Rechnen
+Type=Application
