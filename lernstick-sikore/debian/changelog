@@ -1,0 +1,18 @@
+lernstick-sikore (2) lernstick-8; urgency=medium
+
+  * synced with Debian 8
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 11 Jun 2015 22:51:10 +0200
+
+lernstick-sikore (1.1-1) unstable; urgency=low
+
+  * added wrapper script to fix L10n in GNOME
+  * added GenericName key in desktop file
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Mon, 30 Apr 2012 16:07:36 +0200
+
+lernstick-sikore (1.0-1) unstable; urgency=low
+
+  * initial version
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Tue, 09 Nov 2010 15:25:44 +0100
