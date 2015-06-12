@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=Education;Science;
+Exec=phet
+Icon=phet
+Name=Interactive Science Simulations
+Name[de]=Interaktive Simulationen
+Name[es]=Simulaciones Interactivas de Ciencia
+Name[fr]=Simulateurs intéractifs en sciences
+Name[it]=Simulazioni Scientifiche Interattive
+Name[pt_BR]=Simulações Interativas de Ciência
+Name[pt]=Simulações Interactivas Científicas
+Type=Application
