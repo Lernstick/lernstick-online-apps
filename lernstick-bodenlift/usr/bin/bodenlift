@@ -1,0 +1,11 @@
+#!/bin/sh
+SHORT_LANG="$(echo $LANG | awk -F_ '{print $1}')"
+
+case "${SHORT_LANG}" in
+	fr)
+		iceweasel "http://www.bodenreise.ch/?c0=language&language=fr"
+		;;
+	*)
+		iceweasel "http://www.bodenreise.ch/?c0=language&language=de"
+		;;
+esac

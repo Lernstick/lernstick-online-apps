@@ -1,0 +1,7 @@
+[Desktop Entry]
+Categories=Education;
+Exec=bodenlift
+Icon=/usr/share/icons/bodenlift.png
+Name=Bodenlift
+Name[fr]=Ascenseur souterrain
+Type=Application
