@@ -1,0 +1,6 @@
+[Desktop Entry]
+Categories=Education;
+Exec=iceweasel http://www.schatz-der-kulturen.de
+Icon=/usr/share/icons/schatzderkulturen.png
+Name=Schatz der Kulturen
+Type=Application
