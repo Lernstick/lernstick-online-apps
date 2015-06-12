@@ -1,0 +1,6 @@
+[Desktop Entry]
+Categories=Education;
+Exec=iceweasel http://www.cooldriving.ch
+Icon=/usr/share/icons/tcs.png
+Name=COOLdriving
+Type=Application
