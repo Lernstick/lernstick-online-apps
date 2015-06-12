@@ -1,0 +1,11 @@
+Source: lernstick-lernareal
+Section: misc
+Priority: optional
+Maintainer: Ronny Standtke <ronny.standtke@fhnw.ch>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+
+Package: lernstick-lernareal
+Architecture: all
+Description: learning and exercises platform as from grade 7 
+ learning and exercises platform as from grade 7
