@@ -1,0 +1,17 @@
+lernstick-energiespiel (2) lernstick-8; urgency=medium
+
+  * synced with Debian 8
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Fri, 12 Jun 2015 17:27:37 +0200
+
+lernstick-energiespiel (1.1-1) unstable; urgency=low
+
+  * updated URL and Name
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Mon, 27 Feb 2012 18:47:41 +0100
+
+lernstick-energiespiel (1.0-1) unstable; urgency=low
+
+  * initial release
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Fri, 29 Oct 2010 11:41:09 +0200
