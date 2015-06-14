@@ -1,3 +1,9 @@
+lernstick-notenmax (3) lernstick-8; urgency=medium
+
+  * fixed icon path
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 14 Jun 2015 23:24:16 +0200
+
 lernstick-notenmax (2) lernstick-8; urgency=medium
 
   * added svg icon

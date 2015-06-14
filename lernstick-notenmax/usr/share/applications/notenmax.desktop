@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Music;
 Exec=iceweasel http://www.notenmax.de
-Icon=/usr/share/icons/notenmax.png
+Icon=notenmax
 Name=Notenmax
 Type=Application
