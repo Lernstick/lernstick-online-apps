@@ -1,3 +1,9 @@
+lernstick-openclipart (3) lernstick-8; urgency=medium
+
+  * replaced png icon with a svg version
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 14 Jun 2015 23:40:30 +0200
+
 lernstick-openclipart (2) lernstick-8; urgency=medium
 
   * fixed architecture
