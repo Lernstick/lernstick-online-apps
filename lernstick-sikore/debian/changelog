@@ -1,3 +1,9 @@
+lernstick-sikore (3) lernstick-8; urgency=medium
+
+  * improved icon
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 15 Jun 2015 00:56:14 +0200
+
 lernstick-sikore (2) lernstick-8; urgency=medium
 
   * synced with Debian 8
