@@ -2,5 +2,7 @@
 Categories=Music;
 Exec=iceweasel http://www.flubidux.de/start.htm
 Icon=flubidux
-Name=Flubidux
+Name=Flubidux (Online)
+GenericName=Exploration of tones, sounds and noise
+GenericName[de]=Erforschung von Tönen, Klängen und Geräuschen
 Type=Application
