@@ -1,6 +1,8 @@
 [Desktop Entry]
 Categories=Education;Languages;
 Exec=iceweasel http://www.orthografietrainer.de
-Icon=/usr/share/icons/orthografietrainer.png
-Name=Orthografietrainer
+Icon=orthografietrainer
+Name=Orthografietrainer (online)
+GenericName=Spelling excercises
+GenericName[de]=Übungen zur Rechtschreibung
 Type=Application
