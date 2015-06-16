@@ -1,6 +1,9 @@
 [Desktop Entry]
 Categories=Education;
-Exec=iceweasel http://www.cooldriving.ch
-Icon=/usr/share/icons/tcs.png
-Name=COOLdriving
+Exec=cooldriving
+Icon=tcs
+Name=COOLdriving (Online)
+GenericName=Game about traffic regulations
+GenericName[de]=Spiel zur Verkehrstheorie
+GenericName[fr]=Jeu de la théorie du trafic
 Type=Application
