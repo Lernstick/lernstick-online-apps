@@ -2,7 +2,7 @@
 Categories=Geography;
 Exec=iceweasel http://www.openstreetmap.org
 Icon=Openstreetmap_logo
-Name=OpenStreetMap
+Name=OpenStreetMap (online)
 GenericName=A free map of the world
 GenericName[de]=Eine freie Weltkarte
 Type=Application
