@@ -1,3 +1,9 @@
+lernstick-kinder-wollen-singen (3) lernstick-8; urgency=medium
+
+  * added online marker
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Tue, 16 Jun 2015 11:54:07 +0200
+
 lernstick-kinder-wollen-singen (2) lernstick-8; urgency=medium
 
   * synced with Debian 8
