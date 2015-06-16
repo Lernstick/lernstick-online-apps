@@ -2,7 +2,7 @@
 Categories=X-lernstick-History;
 Exec=iceweasel http://www.kinderzeitmaschine.de
 Icon=kinderzeitmaschine
-Name=Kinderzeitmaschine (Online)
+Name=Kinderzeitmaschine (online)
 GenericName=Virtual journeys into the past
 GenericName[de]=Virtuelle Reisen in die Vergangenheit
 Type=Application
