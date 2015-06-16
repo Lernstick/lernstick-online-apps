@@ -1,7 +1,12 @@
 [Desktop Entry]
 Categories=Education;
 Exec=bodenlift
-Icon=/usr/share/icons/bodenlift.png
-Name=Bodenlift
-Name[fr]=Ascenseur souterrain
+Icon=bodenlift
+Name=Bodenlift (Online)
+Name[fr]=Ascenseur souterrain (Online)
+Name[it]=Ascensore sotterraneo (Online)
+GenericName=A journey through soil
+GenericName[de]=Eine Reise durch den Boden
+GenericName[fr]=Une excursion sous terre
+GenericName[it]=Una spedizione sotto terra
 Type=Application
