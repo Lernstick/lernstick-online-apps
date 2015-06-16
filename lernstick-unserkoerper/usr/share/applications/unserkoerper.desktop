@@ -2,5 +2,7 @@
 Categories=Education;
 Exec=iceweasel http://www.unserkoerper.de
 Icon=unserkoerper
-Name=Mein Körper und Ich
+Name=Mein Körper und Ich (online)
+GenericName=The human body and its functions
+GenericName[de]=Der menschliche Körper und seine Funktionen
 Type=Application
