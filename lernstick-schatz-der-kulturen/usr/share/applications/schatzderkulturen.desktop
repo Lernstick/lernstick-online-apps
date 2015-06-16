@@ -1,6 +1,8 @@
 [Desktop Entry]
 Categories=Education;
 Exec=iceweasel http://www.schatz-der-kulturen.de
-Icon=/usr/share/icons/schatzderkulturen.png
-Name=Schatz der Kulturen
+Icon=schatzderkulturen
+Name=Schatz der Kulturen (online)
+GenericName=Game about intercultural competencies
+GenericName[de]=Spiel zu interkulturellen Kompetenzen
 Type=Application
