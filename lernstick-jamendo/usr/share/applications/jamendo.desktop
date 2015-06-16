@@ -2,7 +2,7 @@
 Categories=Music;
 Exec=iceweasel http://www.jamendo.com
 Icon=jamendo
-Name=Jamendo (Online)
+Name=Jamendo (online)
 GenericName=Free music
 GenericName[de]=Freie Musik
 Type=Application
