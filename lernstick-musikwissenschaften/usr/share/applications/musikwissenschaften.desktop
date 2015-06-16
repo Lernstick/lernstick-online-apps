@@ -1,6 +1,8 @@
 [Desktop Entry]
 Categories=Music;
 Exec=iceweasel http://musikwissenschaften.de/lernprogramme/online-lernprogramme-flash-uebersicht/
-Icon=/usr/share/icons/musikwissenschaften.png
-Name=Musikwissenschaften
+Icon=musikwissenschaften
+Name=Musikwissenschaften (online)
+GenericName=Ear training and music notation
+GenericName[de]=Gehörbildung und Notensatz
 Type=Application
