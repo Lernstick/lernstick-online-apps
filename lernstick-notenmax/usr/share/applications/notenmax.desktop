@@ -2,5 +2,7 @@
 Categories=Music;
 Exec=iceweasel http://www.notenmax.de
 Icon=notenmax
-Name=Notenmax
+Name=Notenmax (online)
+GenericName=Music learning platform for kids
+GenericName[de]=Musiklernplattform für Kinder
 Type=Application
