@@ -1,3 +1,10 @@
+lernstick-againstallodds (3) lernstick-8; urgency=medium
+
+  * added GenericName
+  * added note to name that this is an online game
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Tue, 16 Jun 2015 10:29:05 +0200
+
 lernstick-againstallodds (2) lernstick-8; urgency=medium
 
   * synced with Debian 8
