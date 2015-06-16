@@ -2,5 +2,7 @@
 Categories=Education;Languages;
 Exec=iceweasel https://www.wiktionary.org/
 Icon=wiktionary
-Name=Wiktionary
+Name=Wiktionary (online)
+GenericName=Dictionary
+GenericName[de]=Wörterbuch
 Type=Application
