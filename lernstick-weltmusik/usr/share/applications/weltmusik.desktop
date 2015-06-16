@@ -2,7 +2,7 @@
 Categories=Music;
 Exec=iceweasel http://www.weltmusik-fuer-kinder.de/portal/
 Icon=weltmusik
-Name=Kinderweltmusik (Online)
+Name=Kinderweltmusik (online)
 GenericName=World map of children's music
 GenericName[de]=Weltkarte der Kindermusik
 Type=Application
