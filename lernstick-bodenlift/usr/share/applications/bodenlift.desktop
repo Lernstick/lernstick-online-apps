@@ -2,9 +2,9 @@
 Categories=Education;
 Exec=bodenlift
 Icon=bodenlift
-Name=Bodenlift (Online)
-Name[fr]=Ascenseur souterrain (Online)
-Name[it]=Ascensore sotterraneo (Online)
+Name=Bodenlift (online)
+Name[fr]=Ascenseur souterrain (online)
+Name[it]=Ascensore sotterraneo (online)
 GenericName=A journey through soil
 GenericName[de]=Eine Reise durch den Boden
 GenericName[fr]=Une excursion sous terre
