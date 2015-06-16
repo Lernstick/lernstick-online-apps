@@ -2,5 +2,7 @@
 Categories=Education;
 Exec=iceweasel http://kinder.wald.de
 Icon=kinderwald
-Name=Kinderwald
+Name=Kinderwald (Online)
+GenericName=Interactive forest game
+GenericName[de]=Interaktives Waldspiel
 Type=Application
