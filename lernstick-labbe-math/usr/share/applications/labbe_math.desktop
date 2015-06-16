@@ -2,7 +2,7 @@
 Categories=Education;Math;
 Exec=iceweasel http://www.labbe.de/lerntrix/index_mg.asp
 Icon=labbe
-Name=Lerntrix Rechnen (Online)
+Name=Lerntrix Rechnen (online)
 GenericName=Basic arithmetics excercises
 GenericName[de]=Übungen zu den Grundrechenarten
 Type=Application
