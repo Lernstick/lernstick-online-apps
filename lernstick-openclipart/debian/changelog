@@ -1,3 +1,9 @@
+lernstick-openclipart (4) lernstick-8; urgency=medium
+
+  * added online marker
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Tue, 16 Jun 2015 14:18:47 +0200
+
 lernstick-openclipart (3) lernstick-8; urgency=medium
 
   * replaced png icon with a svg version
