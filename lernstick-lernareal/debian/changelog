@@ -1,3 +1,9 @@
+lernstick-lernareal (2) lernstick-8; urgency=medium
+
+  * added online marker 
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Tue, 16 Jun 2015 13:38:07 +0200
+
 lernstick-lernareal (1) lernstick-8; urgency=low
 
   * initial version

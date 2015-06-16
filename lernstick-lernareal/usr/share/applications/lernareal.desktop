@@ -2,7 +2,7 @@
 Categories=Education;
 Exec=iceweasel http://lernareal.ch
 Icon=lernareal
-Name=Lernareal
+Name=Lernareal (Online)
 GenericName=Learning and exercise platform as from grade 7
 GenericName[de]=Lern- und Übungsplattform ab Schuljahr 7
 Type=Application
