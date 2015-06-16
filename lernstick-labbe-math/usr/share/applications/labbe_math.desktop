@@ -1,6 +1,8 @@
 [Desktop Entry]
 Categories=Education;Math;
 Exec=iceweasel http://www.labbe.de/lerntrix/index_mg.asp
-Icon=/usr/share/icons/labbe.png
-Name=Lerntrix Rechnen
+Icon=labbe
+Name=Lerntrix Rechnen (Online)
+GenericName=Basic arithmetics excercises
+GenericName[de]=Übungen zu den Grundrechenarten
 Type=Application
