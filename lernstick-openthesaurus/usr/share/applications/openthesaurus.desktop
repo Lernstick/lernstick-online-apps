@@ -2,5 +2,6 @@
 Categories=Education;Languages;
 Exec=openthesaurus
 Icon=openthesaurus
-Name=OpenThesaurus
+Name=OpenThesaurus (online)
+GenericName[de]=Freies Wörterbuch für Synonyme
 Type=Application
