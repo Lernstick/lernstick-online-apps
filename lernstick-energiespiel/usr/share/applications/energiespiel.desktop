@@ -2,7 +2,7 @@
 Categories=Education;
 Exec=iceweasel http://www.wir-ernten-was-wir-saeen.de/energiespiel/
 Icon=energiespiel
-Name=Energetika 2010 (Online)
+Name=Energetika 2010 (online)
 GenericName=Game about sustainable electrical power supply
 GenericName[de]=Spiel zur nachhaltigen Stromversorgung
 Type=Application

@@ -1,3 +1,9 @@
+lernstick-energiespiel (4) lernstick-8; urgency=medium
+
+  * fixed online marker
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Tue, 16 Jun 2015 13:55:10 +0200
+
 lernstick-energiespiel (3) lernstick-8; urgency=medium
 
   * added GenericName and online marker
