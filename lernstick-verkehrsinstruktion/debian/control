@@ -1,0 +1,12 @@
+Source: lernstick-verkehrsinstruktion
+Section: misc
+Priority: optional
+Maintainer: Ronny Standtke <ronny.standtke@fhnw.ch>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+
+Package: lernstick-verkehrsinstruktion
+Depends: iceweasel
+Architecture: all
+Description: A link to the traffic education page of the Winterthur police
+ A link to the traffic education page of the Winterthur police
