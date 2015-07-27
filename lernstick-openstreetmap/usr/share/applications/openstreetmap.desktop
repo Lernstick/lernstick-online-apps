@@ -1,7 +1,7 @@
 [Desktop Entry]
 Categories=Geography;
 Exec=iceweasel http://www.openstreetmap.org
-Icon=Openstreetmap_logo
+Icon=openstreetmap
 Name=OpenStreetMap (online)
 GenericName=A free map of the world
 GenericName[de]=Eine freie Weltkarte

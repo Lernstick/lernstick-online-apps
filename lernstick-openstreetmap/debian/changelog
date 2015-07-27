@@ -1,3 +1,9 @@
+lernstick-openstreetmap (3) lernstick-8; urgency=medium
+
+  * fixed icon path
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 27 Jul 2015 20:43:11 +0200
+
 lernstick-openstreetmap (2) lernstick-8; urgency=medium
 
   * added online marker
