@@ -1,3 +1,9 @@
+lernstick-mathematik-primarstufe (2) lernstick-8; urgency=medium
+
+  * added online marker
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Tue, 28 Jul 2015 13:04:00 +0200
+
 lernstick-mathematik-primarstufe (1.0-1) lernstick-8; urgency=low
 
   * Initial release
