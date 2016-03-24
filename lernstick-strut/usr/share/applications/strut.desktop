@@ -3,6 +3,6 @@ Name=strut
 GenericName=Online presentations
 GenericName[de]=Online-Präsentationen
 Categories=Office;
-Exec=iceweasel http://strut.io/editor/
+Exec=firefox http://strut.io/editor/
 Icon=strut
 Type=Application
