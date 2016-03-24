@@ -1,3 +1,9 @@
+lernstick-mathematik-primarstufe (3) lernstick-8; urgency=medium
+
+  * switched from iceweasel to firefox
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Thu, 24 Mar 2016 15:48:25 +0100
+
 lernstick-mathematik-primarstufe (2) lernstick-8; urgency=medium
 
   * added online marker

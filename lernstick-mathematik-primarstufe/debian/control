@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7)
 Standards-Version: 3.7.3
 
 Package: lernstick-mathematik-primarstufe
-Depends: iceweasel
+Depends: iceweasel | firefox
 Architecture: all
 Description: math excercises
  math excercises

@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Education;Math;
-Exec=iceweasel http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/matheprimar/rout1gr/_framework/mathematik1_de.html
+Exec=firefox http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/matheprimar/rout1gr/_framework/mathematik1_de.html
 Icon=mathe_primar_1
 Name=Mathematik Primarstufe 1 (online)
 GenericName[de]=Mathematikaufgaben für die Primarschule

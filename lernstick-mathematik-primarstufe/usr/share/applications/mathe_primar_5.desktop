@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Education;Math;
-Exec=iceweasel http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/matheprimar/matheprimar_5/fertigkeiten/de/index.html
+Exec=firefox http://www.lehrmittelverlag-zuerich.ch/Portals/1/Documents/lehrmittelsites/matheprimar/matheprimar_5/fertigkeiten/de/index.html
 Icon=mathe_primar_5
 Name=Mathematik Primarstufe 5 (online)
 GenericName[de]=Mathematikaufgaben für die Primarschule
