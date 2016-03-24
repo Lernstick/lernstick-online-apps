@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Education;
-Exec=iceweasel http://kinder.wald.de
+Exec=firefox http://kinder.wald.de
 Icon=kinderwald
 Name=Kinderwald (online)
 GenericName=Interactive forest game
