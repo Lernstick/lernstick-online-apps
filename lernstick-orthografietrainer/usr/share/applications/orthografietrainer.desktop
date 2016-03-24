@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Education;Languages;
-Exec=iceweasel http://www.orthografietrainer.de
+Exec=firefox http://www.orthografietrainer.de
 Icon=orthografietrainer
 Name=Orthografietrainer (online)
 GenericName=Spelling excercises
