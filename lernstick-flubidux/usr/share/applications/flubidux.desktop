@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Music;
-Exec=iceweasel http://www.flubidux.de/start.htm
+Exec=firefox http://www.flubidux.de/start.htm
 Icon=flubidux
 Name=Flubidux (online)
 GenericName=Exploration of tones, sounds and noise
