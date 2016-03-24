@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Education;Languages;
-Exec=iceweasel https://www.wiktionary.org/
+Exec=firefox https://www.wiktionary.org/
 Icon=wiktionary
 Name=Wiktionary (online)
 GenericName=Dictionary
