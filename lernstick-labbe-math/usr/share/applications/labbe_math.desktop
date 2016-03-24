@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Education;Math;
-Exec=iceweasel http://www.labbe.de/lerntrix/index_mg.asp
+Exec=firefox http://www.labbe.de/lerntrix/index_mg.asp
 Icon=labbe
 Name=Lerntrix Rechnen (online)
 GenericName=Basic arithmetics excercises
