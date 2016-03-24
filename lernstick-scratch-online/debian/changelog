@@ -1,3 +1,9 @@
+lernstick-scratch-online (3) lernstick-8; urgency=medium
+
+  * switched from iceweasel to firefox 
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Thu, 24 Mar 2016 17:13:21 +0100
+
 lernstick-scratch-online (2) lernstick-8; urgency=medium
 
   * fixed online marker
