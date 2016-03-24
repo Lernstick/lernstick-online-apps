@@ -1,3 +1,9 @@
+lernstick-kinder-wollen-singen (5) lernstick-8; urgency=medium
+
+  * switched from iceweasel to firefox
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Thu, 24 Mar 2016 18:47:06 +0100
+
 lernstick-kinder-wollen-singen (4) lernstick-8; urgency=medium
 
   * fixed online marker 

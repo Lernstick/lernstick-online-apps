@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Music;
-Exec=iceweasel http://www.kinder-wollen-singen.de
+Exec=firefox http://www.kinder-wollen-singen.de
 Icon=kinder-wollen-singen
 Name=Kinder wollen singen (online)
 GenericName=Free sheets of music
