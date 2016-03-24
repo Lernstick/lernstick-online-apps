@@ -3,9 +3,12 @@ SHORT_LANG="$(echo $LANG | awk -F_ '{print $1}')"
 
 case "${SHORT_LANG}" in
 	fr)
-		iceweasel "http://www.bodenreise.ch/?c0=language&language=fr"
+		firefox "http://www.bodenreise.ch/fr/"
+		;;
+	it)
+		firefox "http://www.bodenreise.ch/it/"
 		;;
 	*)
-		iceweasel "http://www.bodenreise.ch/?c0=language&language=de"
+		firefox "http://www.bodenreise.ch/"
 		;;
 esac
