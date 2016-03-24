@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Graphics;
-Exec=iceweasel http://www.openclipart.org
+Exec=firefox http://www.openclipart.org
 Icon=openclipart
 Name=Open Clip Art Library (online)
 GenericName[de]=Freie Clipart-Bibliothek
