@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Music;
-Exec=iceweasel http://www.notenmax.de
+Exec=firefox http://www.notenmax.de
 Icon=notenmax
 Name=Notenmax (online)
 GenericName=Music learning platform for kids
