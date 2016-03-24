@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=X-lernstick-History;
-Exec=iceweasel http://www.kinderzeitmaschine.de
+Exec=firefox http://www.kinderzeitmaschine.de
 Icon=kinderzeitmaschine
 Name=Kinderzeitmaschine (online)
 GenericName=Virtual journeys into the past
