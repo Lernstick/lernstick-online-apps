@@ -6,6 +6,7 @@ Build-Depends: debhelper (>= 7)
 Standards-Version: 3.7.3
 
 Package: lernstick-schatz-der-kulturen
+Depends: iceweasel | firefox
 Architecture: all
 Description: A menu entry for Schatz der Kulturen
  We add a menu entry for the Schatz der Kulturen webpage.

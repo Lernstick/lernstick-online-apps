@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Education;
-Exec=iceweasel http://www.schatz-der-kulturen.de
+Exec=firefox http://www.schatz-der-kulturen.de
 Icon=schatzderkulturen
 Name=Schatz der Kulturen (online)
 GenericName=Game about intercultural competencies
