@@ -3,15 +3,15 @@ SHORT_LANG="$(echo $LANG | awk -F_ '{print $1}')"
 
 case "${SHORT_LANG}" in
 	de)
-		iceweasel http://www.lastexitflucht.org/againstallodds/
+		firefox http://www.lastexitflucht.org/againstallodds/
 		;;
 	es)
-		iceweasel http://www.contravientoymarea.org/
+		firefox http://www.contravientoymarea.org/
 		;;
 	fr)
-		iceweasel http://www.enversetcontretout.org/
+		firefox http://www.enversetcontretout.org/
 		;;
 	*)
-		iceweasel http://www.playagainstallodds.com
+		firefox http://www.playagainstallodds.com
 		;;
 esac
