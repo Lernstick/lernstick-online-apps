@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Education;
-Exec=iceweasel http://www.wir-ernten-was-wir-saeen.de/energiespiel/
+Exec=firefox http://www.wir-ernten-was-wir-saeen.de/energiespiel/
 Icon=energiespiel
 Name=Energetika 2010 (online)
 GenericName=Game about sustainable electrical power supply
