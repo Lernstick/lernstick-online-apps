@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Education;
-Exec=iceweasel http://lernareal.ch
+Exec=firefox http://lernareal.ch
 Icon=lernareal
 Name=Lernareal (online)
 GenericName=Learning and exercise platform as from grade 7
