@@ -3,9 +3,9 @@ SHORT_LANG="$(echo $LANG | awk -F_ '{print $1}')"
 
 case "${SHORT_LANG}" in
 	de)
-		iceweasel http://sikore.schiffner-tischer.de/
+		firefox http://sikore.schiffner-tischer.de/
 		;;
 	*)
-		iceweasel http://sikore.schiffner-tischer.de/index_en.html
+		firefox http://sikore.schiffner-tischer.de/index_en.html
 		;;
 esac
