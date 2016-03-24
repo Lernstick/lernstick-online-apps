@@ -6,6 +6,7 @@ Build-Depends: debhelper (>= 7)
 Standards-Version: 3.7.3
 
 Package: lernstick-toporopa
+Depends: iceweasel | firefox
 Architecture: all
 Description: A menu entry for Toporopa
  We add a menu entry for the Toporopa webpage.

@@ -1,9 +1,6 @@
 [Desktop Entry]
 Categories=Geography;
-Exec=iceweasel http://www.toporopa.eu/en/index.html
-Exec[de]=iceweasel http://www.toporopa.eu/de/index.html
-Exec[fr]=iceweasel http://www.toporopa.eu/fr/index.html
-Exec[es]=iceweasel http://www.toporopa.eu/es/index.html
+Exec=toporopa
 Icon=toporopa
 Name=Toporopa (online)
 GenericName=European geography
