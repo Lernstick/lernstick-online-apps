@@ -1,3 +1,9 @@
+lernstick-musikwissenschaften (4) lernstick-8; urgency=medium
+
+  * switched from iceweasel to firefox
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Thu, 24 Mar 2016 18:54:50 +0100
+
 lernstick-musikwissenschaften (3) lernstick-8; urgency=medium
 
   * updated icon

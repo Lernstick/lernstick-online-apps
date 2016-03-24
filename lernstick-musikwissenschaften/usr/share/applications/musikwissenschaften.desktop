@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Music;
-Exec=iceweasel http://musikwissenschaften.de/lernprogramme/online-lernprogramme-flash-uebersicht/
+Exec=firefox http://musikwissenschaften.de/lernprogramme/online-lernprogramme-flash-uebersicht/
 Icon=musikwissenschaften
 Name=Musikwissenschaften (online)
 GenericName=Ear training and music notation
