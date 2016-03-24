@@ -3,24 +3,24 @@ SHORT_LANG="$(echo $LANG | awk -F_ '{print $1}')"
 
 case "${SHORT_LANG}" in
 	de)
-		iceweasel http://phet.colorado.edu/de/simulations/category/new
+		firefox http://phet.colorado.edu/de/simulations/category/new
 		;;
 	es)
-		iceweasel http://phet.colorado.edu/es/simulations/category/new
+		firefox http://phet.colorado.edu/es/simulations/category/new
 		;;
 	fr)
-		iceweasel http://phet.colorado.edu/fr/simulations/category/new
+		firefox http://phet.colorado.edu/fr/simulations/category/new
 		;;
 	it)
-		iceweasel http://phet.colorado.edu/it/simulations/category/new
+		firefox http://phet.colorado.edu/it/simulations/category/new
 		;;
 	pt)
-		iceweasel http://phet.colorado.edu/pt/simulations/category/new
+		firefox http://phet.colorado.edu/pt/simulations/category/new
 		;;
 	pt_BR)
-		iceweasel http://phet.colorado.edu/pt_BR/simulations/category/new
+		firefox http://phet.colorado.edu/pt_BR/simulations/category/new
 		;;
 	*)
-		iceweasel http://phet.colorado.edu/en/simulations/category/new
+		firefox http://phet.colorado.edu/en/simulations/category/new
 		;;
 esac
