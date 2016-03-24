@@ -1,3 +1,9 @@
+lernstick-verkehrsinstruktion (2) lernstick-8; urgency=medium
+
+  * switched from iceweasel to firefox
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Thu, 24 Mar 2016 20:06:17 +0100
+
 lernstick-verkehrsinstruktion (1) lernstick-8; urgency=low
 
   * initial version
