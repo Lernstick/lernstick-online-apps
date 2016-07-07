@@ -1,3 +1,9 @@
+lernstick-mathematik-primarstufe (4) lernstick-8; urgency=medium
+
+  * added Mathe Primar 6
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Thu, 07 Jul 2016 09:47:03 +0200
+
 lernstick-mathematik-primarstufe (3) lernstick-8; urgency=medium
 
   * switched from iceweasel to firefox
