@@ -1,0 +1,7 @@
+[Desktop Entry]
+Categories=Education;
+Exec=firefox http://www.veloprüfung.ch
+Icon=velopruefung
+Name=Veloprüfung (online)
+GenericName=Lernprogramme zur Veloprüfung
+Type=Application

@@ -1,3 +1,9 @@
+lernstick-verkehrsinstruktion (3) lernstick-8; urgency=medium
+
+  * renaming and update
+
+ -- Ronny Standtke <ronny.standtke@fhnw.ch>  Fri, 24 Feb 2017 16:28:44 +0100
+
 lernstick-verkehrsinstruktion (2) lernstick-8; urgency=medium
 
   * switched from iceweasel to firefox
