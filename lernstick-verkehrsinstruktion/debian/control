@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7)
 Standards-Version: 3.7.3
 
 Package: lernstick-verkehrsinstruktion
-Depends: iceweasel | firefox
+Depends: iceweasel | firefox | firefox-esr
 Architecture: all
 Description: A link to the traffic education page of the Winterthur police
  A link to the traffic education page of the Winterthur police

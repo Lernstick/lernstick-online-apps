@@ -1,3 +1,9 @@
+lernstick-verkehrsinstruktion (4) lernstick-8; urgency=medium
+
+  * added firefox-esr to dependencies
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 16 Mar 2017 13:03:18 +0100
+
 lernstick-verkehrsinstruktion (3) lernstick-8; urgency=medium
 
   * renaming and update
