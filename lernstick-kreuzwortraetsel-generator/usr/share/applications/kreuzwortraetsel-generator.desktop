@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Education;Languages;
+Exec=firefox https://www.kreuzwort-raetsel.com/selbst-erstellen
+Icon=crossword
+Name=Kreuzworträtsel Generator (online)
+GenericName=Create your own crossword puzzles
+GenericName[de]=Eigene Kreuzworträtsel erstellen
+Type=Application
