@@ -1,3 +1,9 @@
+lernstick-openstreetmap (5) lernstick-9; urgency=medium
+
+  * added optional dependency on firefox-esr
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 26 May 2017 21:14:22 +0200
+
 lernstick-openstreetmap (4) lernstick-8; urgency=medium
 
   * switched from iceweasel to firefox
