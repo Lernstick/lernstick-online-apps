@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7)
 Standards-Version: 3.7.3
 
 Package: lernstick-mathe-im-netz
-Depends: iceweasel | firefox
+Depends: iceweasel | firefox | firefox-esr
 Architecture: all
 Description: A menu entry for Mathe im Netz
  We add a menu entry for the Mathe im Netz webpage.
