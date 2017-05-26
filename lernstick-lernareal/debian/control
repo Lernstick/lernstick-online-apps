@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7)
 Standards-Version: 3.7.3
 
 Package: lernstick-lernareal
-Depends: iceweasel | firefox
+Depends: iceweasel | firefox | firefox-esr
 Architecture: all
 Description: learning and exercises platform as from grade 7 
  learning and exercises platform as from grade 7
