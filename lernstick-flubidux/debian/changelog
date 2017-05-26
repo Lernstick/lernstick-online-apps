@@ -1,3 +1,9 @@
+lernstick-flubidux (6) lernstick-8; urgency=medium
+
+  * added optional dependency to firefox-esr
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 26 May 2017 14:47:46 +0200
+
 lernstick-flubidux (5) lernstick-8; urgency=medium
 
   * switched from iceweasel to firefox
