@@ -1,3 +1,9 @@
+lernstick-jamendo (6) lernstick-8; urgency=medium
+
+  * added optional dependency on firefox-esr
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sat, 27 May 2017 01:08:24 +0200
+
 lernstick-jamendo (5) lernstick-8; urgency=medium
 
   * switched from iceweasel to firefox
