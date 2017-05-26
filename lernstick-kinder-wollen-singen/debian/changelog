@@ -1,3 +1,9 @@
+lernstick-kinder-wollen-singen (6) lernstick-8; urgency=medium
+
+  * added optional dependency on firefox-esr
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 26 May 2017 20:32:05 +0200
+
 lernstick-kinder-wollen-singen (5) lernstick-8; urgency=medium
 
   * switched from iceweasel to firefox
