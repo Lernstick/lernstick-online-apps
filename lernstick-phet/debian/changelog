@@ -1,3 +1,9 @@
+lernstick-phet (4) lernstick-8; urgency=medium
+
+  * added optional dependency on firefox-esr
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 26 May 2017 21:23:51 +0200
+
 lernstick-phet (3) lernstick-8; urgency=medium
 
   * replaced iceweasel with firefox

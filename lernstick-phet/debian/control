@@ -7,6 +7,6 @@ Standards-Version: 3.7.3
 
 Package: lernstick-phet
 Architecture: all
-Depends: iceweasel | firefox
+Depends: iceweasel | firefox | firefox-esr
 Description: Interactive Simulations
  Interactive Simulations
