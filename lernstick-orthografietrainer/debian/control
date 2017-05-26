@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7)
 Standards-Version: 3.7.3
 
 Package: lernstick-orthografietrainer
-Depends: iceweasel | firefox
+Depends: iceweasel | firefox | firefox-esr
 Architecture: all
 Description: A menu entry for Orthografietrainer
  We add a menu entry for http://www.orthografietrainer.de
