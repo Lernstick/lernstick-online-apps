@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7)
 Standards-Version: 3.7.3
 
 Package: lernstick-labbe-math
-Depends: iceweasel | firefox
+Depends: iceweasel | firefox | firefox-esr
 Architecture: all
 Description: A menu entry for Lerntrix Rechnen
  We add a menu entry for the Lerntrix Rechnen webpage.
