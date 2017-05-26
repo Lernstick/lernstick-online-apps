@@ -1,3 +1,9 @@
+lernstick-bodenlift (6) lernstick-8; urgency=medium
+
+  * added optional dependency to firefox-esr
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 26 May 2017 14:37:44 +0200
+
 lernstick-bodenlift (5) lernstick-8; urgency=medium
 
   * switched from iceweasel to firefox
