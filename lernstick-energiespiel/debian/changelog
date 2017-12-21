@@ -1,3 +1,9 @@
+lernstick-energiespiel (6) lernstick-9; urgency=medium
+
+  * added optional dependency to firefox-esr
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Thu, 21 Dec 2017 17:29:22 +0100
+
 lernstick-energiespiel (5) lernstick-8; urgency=medium
 
   * switched from iceweasel to firefox
