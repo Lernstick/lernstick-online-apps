@@ -1,0 +1,12 @@
+Source: lernstick-mille-feuilles
+Section: education
+Priority: optional
+Maintainer: Ronny Standtke <ronny.standtke@fhnw.ch>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+
+Package: lernstick-mille-feuilles
+Depends: firefox-esr
+Architecture: all
+Description: A menu entry for Mille feuilles
+ We add a menu entry for the Mille feuilles webpage.
