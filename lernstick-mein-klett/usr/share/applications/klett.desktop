@@ -1,0 +1,6 @@
+[Desktop Entry]
+Categories=Education;Math;
+Exec=firefox https://lernen.klett.ch/code-eingeben
+Icon=/usr/share/icons/klett.png
+Name=Mein Klett
+Type=Application
