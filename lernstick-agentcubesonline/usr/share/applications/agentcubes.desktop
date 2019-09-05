@@ -1,0 +1,6 @@
+[Desktop Entry]
+Categories=Development;
+Exec=chromium https://agentcubesonline.com
+Icon=/usr/share/icons/agentcubes.png
+Name=AgentCubes
+Type=Application

@@ -1,0 +1,12 @@
+Source: lernstick-agentcubesonline
+Section: education
+Priority: optional
+Maintainer: Ronny Standtke <ronny.standtke@fhnw.ch>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+
+Package: lernstick-agentcubesonline
+Depends: chromium
+Architecture: all
+Description: A menu entry for Agent Cubes online
+ We add a menu entry for the Agent Cubes online webpage.
