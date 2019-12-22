@@ -1,0 +1,12 @@
+Source: lernstick-lmvz
+Section: education
+Priority: optional
+Maintainer: Ronny Standtke <ronny.standtke@gmx.net>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+
+Package: lernstick-lmvz
+Depends: firefox-esr | firefox
+Architecture: all
+Description: A menu entry for LMVZ login
+ We add a menu entry for logging into LMVZ.

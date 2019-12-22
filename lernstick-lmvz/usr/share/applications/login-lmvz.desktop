@@ -1,0 +1,6 @@
+[Desktop Entry]
+Categories=Education;Math;
+Exec=firefox https://login.lmvz.ch
+Icon=/usr/share/icons/hicolor/scalable/apps/lmvz.svg
+Name=Anmeldung LMVZ digital
+Type=Application
