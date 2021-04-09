@@ -1,3 +1,9 @@
+lernstick-mille-feuilles (2) lernstick-10; urgency=medium
+
+  * open browser version directly
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 09 Apr 2021 19:00:37 +0200
+
 lernstick-mille-feuilles (1) lernstick-9; urgency=low
 
   * initial release
