@@ -1,0 +1,6 @@
+[Desktop Entry]
+Categories=Development;
+Exec=firefox https://xlogo.inf.ethz.ch
+Icon=/usr/share/icons/xlogo-online.png
+Name=XLogoOnline
+Type=Application

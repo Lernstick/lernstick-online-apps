@@ -1,0 +1,12 @@
+Source: lernstick-xlogo-online
+Section: education
+Priority: optional
+Maintainer: Ronny Standtke <ronny.standtke@gmx.net>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 3.7.3
+
+Package: lernstick-xlogo-online
+Depends: firefox-esr
+Architecture: all
+Description: A menu entry for XLogoOnline
+ We add a menu entry for the XLogoOnline webpage.
