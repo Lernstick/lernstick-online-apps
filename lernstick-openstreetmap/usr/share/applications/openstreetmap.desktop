@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Geography;
-Exec=firefox http://www.openstreetmap.org
+Exec=firefox https://www.openstreetmap.org
 Icon=openstreetmap
 Name=OpenStreetMap (online)
 GenericName=A free map of the world

@@ -1,3 +1,9 @@
+lernstick-openstreetmap (6) lernstick-12; urgency=medium
+
+  * updated URL and maintainer files
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 17 Aug 2025 14:44:27 +0200
+
 lernstick-openstreetmap (5) lernstick-9; urgency=medium
 
   * added optional dependency on firefox-esr
