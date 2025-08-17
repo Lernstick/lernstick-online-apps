@@ -1,3 +1,9 @@
+lernstick-kinderzeitmaschine (9) lernstick-12; urgency=medium
+
+  * updated URL and maintainer files
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 17 Aug 2025 15:20:33 +0200
+
 lernstick-kinderzeitmaschine (7) lernstick-8; urgency=medium
 
   * added optional dependency on firefox-esr
