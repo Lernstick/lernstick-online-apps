@@ -2,18 +2,18 @@
 SHORT_LANG="$(echo $LANG | awk -F_ '{print $1}')"
 case "${SHORT_LANG}" in
 	de)
-		firefox http://www.toporopa.eu/de/
+		firefox https://www.toporopa.eu/de/
 		;;
 	es)
-		firefox http://www.toporopa.eu/es/
+		firefox https://www.toporopa.eu/es/
 		;;
 	fr)
-		firefox http://www.toporopa.eu/fr/
+		firefox https://www.toporopa.eu/fr/
 		;;
 	it)
-		firefox http://www.toporopa.eu/it/
+		firefox https://www.toporopa.eu/it/
 		;;
 	*)
-		firefox http://www.toporopa.eu/en/
+		firefox https://www.toporopa.eu/en/
 		;;
 esac

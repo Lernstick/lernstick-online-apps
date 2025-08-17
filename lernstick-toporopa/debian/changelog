@@ -1,3 +1,9 @@
+lernstick-toporopa (6) lernstick-12; urgency=medium
+
+  * updated URL and maintainer files
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Sun, 17 Aug 2025 15:31:27 +0200
+
 lernstick-toporopa (5) lernstick-8; urgency=medium
 
   * added optional dependency on firefox-esr
