@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Education;
-Exec=firefox http://www.unserkoerper.de
+Exec=firefox https://www.unserkoerper.de
 Icon=unserkoerper
 Name=Mein Körper und Ich (online)
 GenericName=The human body and its functions
