@@ -1,3 +1,9 @@
+lernstick-jamendo (7) lernstick-12; urgency=medium
+
+  * updated URL and maintainer files
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 18 Aug 2025 17:17:39 +0200
+
 lernstick-jamendo (6) lernstick-8; urgency=medium
 
   * added optional dependency on firefox-esr

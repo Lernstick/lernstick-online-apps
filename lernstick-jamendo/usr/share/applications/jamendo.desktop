@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Music;
-Exec=firefox http://www.jamendo.com
+Exec=firefox https://www.jamendo.com
 Icon=jamendo
 Name=Jamendo (online)
 GenericName=Free music
