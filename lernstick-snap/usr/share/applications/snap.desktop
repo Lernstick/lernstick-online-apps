@@ -2,7 +2,7 @@
 Name=Snap! Build Your Own Blocks (online)
 GenericName=Visual programming language
 GenericName[de]=Visuelle Programmiersprache
-Exec=firefox http://snap.berkeley.edu/snapsource/snap.html
+Exec=firefox https://snap.berkeley.edu/snap/snap.html
 Type=Application
 Icon=snap
 Categories=Development;
