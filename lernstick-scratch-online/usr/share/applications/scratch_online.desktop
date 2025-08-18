@@ -2,7 +2,7 @@
 Name=Scratch (online)
 GenericName=Visual programming language
 GenericName[de]=Visuelle Programmiersprache
-Exec=firefox http://scratch.mit.edu
+Exec=firefox https://scratch.mit.edu
 Type=Application
 Icon=scratch_online
 Categories=Development;
