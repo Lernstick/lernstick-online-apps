@@ -1,3 +1,9 @@
+lernstick-sikore (7) lernstick-12; urgency=medium
+
+  * updated URL and maintainer files
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Mon, 18 Aug 2025 17:24:59 +0200
+
 lernstick-sikore (6) lernstick-8; urgency=medium
 
   * added optional dependency on firefox-esr
