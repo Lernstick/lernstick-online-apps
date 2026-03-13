@@ -1,3 +1,9 @@
+lernstick-jamendo (8) lernstick-13; urgency=medium
+
+  * updated category for Debian 13
+
+ -- Ronny Standtke <ronny.standtke@gmx.net>  Fri, 13 Mar 2026 11:45:47 +0100
+
 lernstick-jamendo (7) lernstick-12; urgency=medium
 
   * updated URL and maintainer files
